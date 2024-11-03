@@ -13,8 +13,8 @@ This project serves as a backend API for a to-do list application. It is structu
 
 ## Requirements
 
-- Python 3.x
-- Django 3.x or higher
+- Python 3.12
+- Django 3.5 or higher
 - Django REST Framework
 
 ## Installation and Setup
